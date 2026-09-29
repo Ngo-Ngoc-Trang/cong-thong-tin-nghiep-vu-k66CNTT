@@ -6,7 +6,7 @@
   * [Quy trình xây dựng website](quy-trinh-xay-dung-website.md)
   * [Biểu mẫu tiếp nhận](bieu-mau.md)
 * **DỊCH VỤ TRỢ GIÚP**
-  * [Các dịch vụ Trợ giúp](dIch-vu-tro-giup.md)
+  * [Các dịch vụ Trợ giúp](dich-vu-tro-giup.md)
   * [Quỹ Bảo trợ trẻ em](quy-bao-tro-tre-em.md)
   * [Ngôi nhà Ánh Dương](ngoi-nha-anh-duong.md)
 * **DỊCH VỤ TRỢ GIÚP**
