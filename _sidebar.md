@@ -1,5 +1,5 @@
 * [Trang Chủ](/)
-* **Quy Trình & Hướng Dẫn**
+* **Thông Tin Chung**
   * [Thông tin sinh viên](thong-tin-sinh-vien.md)
   * [Giới thiệu](gioi-thieu.md)
   * [Hình ảnh trụ sở](hinh-anh-trung-tam.md)
